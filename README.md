@@ -26,7 +26,10 @@ Below Table, I'll share four recommendations for books that I believe are worth 
 
 | Name | Reason | Author|
 | --- | ---| --- |
-|  Rich Dad and Poor Dad| it's very nice book | docchyhdgfs |
+|  The Great Gatsby|An American classic that explores the American Dream | F. Scott Fitzgerald  |
+|To Kill a Mockingbird|Powerful narrative addressing racial injustice.|Harper Lee |
+|The Alchemist|A philosophical tale about following one's dreams.|Paulo Coelho|
+
 
 
 
