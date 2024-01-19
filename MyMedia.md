@@ -7,7 +7,8 @@
 
 
 
-[![My Image](Image.jpeg)](C:/Users/s571468/Documents/webapps-repos/from-potu/MyMedia.md)
+[![My Image](Image.jpeg)](/MyMedia.md)
+
 
 
 
