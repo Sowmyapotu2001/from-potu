@@ -21,7 +21,7 @@ Srikanya has won my heart with its enchanting **ambiance** and unparalleled food
 For more more details, click on [MyMediaLink](/MyMedia.md)
 
 ---
-### Recommend 4 types of Books
+## Recommend 4 types of Books
 Below Table, I'll share four recommendations for books that I believe are worth exploring. In that I will Include **Name** and **Reason for Recommendation** and **Author**.
 
 | Name | Reason | Author|
@@ -29,7 +29,18 @@ Below Table, I'll share four recommendations for books that I believe are worth 
 |  The Great Gatsby|An American classic that explores the American Dream | F. Scott Fitzgerald  |
 |To Kill a Mockingbird|Powerful narrative addressing racial injustice.|Harper Lee |
 |The Alchemist|A philosophical tale about following one's dreams.|Paulo Coelho|
+|1984|A dystopian masterpiece exploring totalitarianism|George Orwell |
 
+---
 
+## Favorite Quotes
+
+> "The only way to do great work is to love what you do."  
+
+> "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."  
+
+> *Steve Jobs*
+
+  
 
 
