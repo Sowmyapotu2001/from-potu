@@ -39,7 +39,25 @@ Below Table, I'll share four recommendations for books that I believe are worth 
 
 > "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."  
 
+Author Name : *Steve Jobs*
+
 > *Steve Jobs*
+---
+## Code Fencing
+
+#### Code Snippet: FULL OUTER JOIN
+
+The below code snippet demonstrating a **FULL OUTER JOIN** between two tables.
+
+```sql
+SELECT column_name(s)
+FROM table1
+FULL OUTER JOIN table2
+ON table1.column_name = table2.column_name
+WHERE condition;
+```
+[snippet source](https://code.pieces.app/collections/sql)
+
 
   
 
