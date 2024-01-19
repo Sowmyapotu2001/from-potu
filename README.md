@@ -17,3 +17,5 @@ Srikanya has won my heart with its enchanting **ambiance** and unparalleled food
 * PVP Mall
 * Sathyam Theater
 * Nexus Mall
+
+For more more details, click on [MyMediaLink](C:/Users/s571468/Documents/webapps-repos/from-potu/MyMedia.md)
