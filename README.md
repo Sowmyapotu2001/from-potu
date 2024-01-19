@@ -25,7 +25,7 @@ For more more details, click on [MyMediaLink](/MyMedia.md)
 Below Table, I'll share four recommendations for books that I believe are worth exploring. In that I will Include **Name** and **Reason for Recommendation** and **Author**.
 
 | Name | Reason | Author|
-| _ _ _   | _ _ _  | _ _ _ |
+| --- | ---| --- |
 |  Rich Dad and Poor Dad| it's very nice book | docchyhdgfs |
 
 
