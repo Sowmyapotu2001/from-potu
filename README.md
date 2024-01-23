@@ -16,7 +16,7 @@ Srikanya has won my heart with its enchanting **ambiance** and unparalleled food
 * Sathyam Theater
 * Nexus Mall
 
-For more more details, click on [MyMediaLink](/MyMedia.md)
+For more more details about MyMedia, click on [MyMediaLink](/MyMedia.md)
 
 ---
 ## Recommend 4 types of Books
